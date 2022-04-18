@@ -47,6 +47,7 @@
 [<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft-4.svg" height="20">](https://minecraft.net/)
 
 
-## 💬 How to reach me
-- ✉️ Email [olly@olly.ml](mailto:olly@olly.ml)
+## 📒 How to reach me
+- 📧 Email [olly@olly.ml](mailto:olly@olly.ml)
 - 🌐 My website [olly.ml](https://olly.ml/)
+- 💬 Discord olly007opm#3517
