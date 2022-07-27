@@ -41,10 +41,10 @@
 [<img alt="FileZilla" src="https://cdn.olly.ml/badge/filezilla.svg" height="20">](https://filezilla-project.org/)
 
 ### 👾 Games
-[<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft.svg" height="20">](https://minecraft.net/)<br>
+[<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft.svg" height="20">](https://minecraft.net/)<!--<br>
 [<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft-2.svg" height="20">](https://minecraft.net/)<br>
 [<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft-3.svg" height="20">](https://minecraft.net/)<br>
-[<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft-4.svg" height="20">](https://minecraft.net/)
+[<img alt="Minecraft" src="https://cdn.olly.ml/badge/minecraft-4.svg" height="20">](https://minecraft.net/) -->
 
 
 ## 📒 How to reach me
