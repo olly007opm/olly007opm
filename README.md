@@ -1,53 +1,60 @@
-# Hi there 👋 I'm Olly, a full stack web developer from the UK
+# Hi there 👋 I'm Olly, a full stack developer from the UK
 
-### ⌨️ Languages
-[<img alt="Python" src="https://cdn.ollycodes.net/badge/python.svg" height="20">](https://www.python.org/)
-[<img alt="Javascript" src="https://cdn.ollycodes.net/badge/javascript.svg" height="20">](https://www.javascript.com/)
-[<img alt="Node JS" src="https://cdn.ollycodes.net/badge/node-js.svg" height="20">](https://nodejs.dev/)
-[<img alt="HTML" src="https://cdn.ollycodes.net/badge/html.svg" height="20">](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-[<img alt="CSS" src="https://cdn.ollycodes.net/badge/css.svg" height="20">](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+## Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-### 🔌 Technologies
-[<img alt="Vue" src="https://cdn.ollycodes.net/badge/vue.svg" height="20">](https://vuejs.org/)
-[<img alt="FastAPI" src="https://cdn.ollycodes.net/badge/fastapi.svg" height="20">](https://fastapi.tiangolo.com/)
-[<img alt="Flask" src="https://cdn.ollycodes.net/badge/flask.svg" height="20">](https://flask.palletsprojects.com/en/2.1.x/)
-[<img alt="Express" src="https://cdn.ollycodes.net/badge/express-js.svg" height="20">](https://expressjs.com/)
-[<img alt="Tailwind CSS" src="https://cdn.ollycodes.net/badge/tailwind-css.svg" height="20">](https://tailwindcss.com/)
-[<img alt="NPM" src="https://cdn.ollycodes.net/badge/npm.svg" height="20">](https://www.npmjs.com/)
-[<img alt="Heroku" src="https://cdn.ollycodes.net/badge/heroku.svg" height="20">](https://www.heroku.com/)
-[<img alt="Vite" src="https://cdn.ollycodes.net/badge/vite.svg" height="20">](https://vitejs.dev/)
-[<img alt="Postgres" src="https://cdn.ollycodes.net/badge/postgres.svg" height="20">](https://www.postgresql.org/)
-[<img alt="MySQL" src="https://cdn.ollycodes.net/badge/mysql.svg" height="20">](https://www.mysql.com/)
-[<img alt="SQLite" src="https://cdn.ollycodes.net/badge/sqlite.svg" height="20">](https://sqlite.org/)
-[<img alt="Firebase Firestore" src="https://cdn.ollycodes.net/badge/firestore.svg" height="20">](https://firebase.google.com/)
-[<img alt="Firebase Realtime Database" src="https://cdn.ollycodes.net/badge/realtime-database.svg" height="20">](https://firebase.google.com/)
-[<img alt="Vercel" src="https://cdn.ollycodes.net/badge/vercel.svg" height="20">](https://vercel.com/)
+## Technologies
+![Svelte Kit](https://img.shields.io/badge/Svelte%20Kit-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.JS-FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=jinja&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
-### 🖥 Programs
-[<img alt="VS Code" src="https://cdn.ollycodes.net/badge/vs-code.svg" height="20">](https://code.visualstudio.com/)
-[<img alt="PyCharm" src="https://cdn.ollycodes.net/badge/pycharm.svg" height="20">](https://www.jetbrains.com/pycharm/)
-[<img alt="WebStorm" src="https://cdn.ollycodes.net/badge/webstorm.svg" height="20">](https://www.jetbrains.com/webstorm/)
-[<img alt="IntelliJ" src="https://cdn.ollycodes.net/badge/intellij.svg" height="20">](https://www.jetbrains.com/idea/)
-[<img alt="PhpStorm" src="https://cdn.ollycodes.net/badge/phpstorm.svg" height="20">](https://www.jetbrains.com/phpstorm/)
-[<img alt="DataGrip" src="https://cdn.ollycodes.net/badge/datagrip.svg" height="20">](https://www.jetbrains.com/datagrip/)
-[<img alt="Postman" src="https://cdn.ollycodes.net/badge/postman.svg" height="20">](https://www.postman.com/)
-[<img alt="iTerm" src="https://cdn.ollycodes.net/badge/iterm.svg" height="20">](https://iterm2.com/)
-[<img alt="GitKraken" src="https://cdn.ollycodes.net/badge/gitkraken.svg" height="20">](https://www.gitkraken.com/)
-[<img alt="Bootstrap Studio" src="https://cdn.ollycodes.net/badge/bootstrap-studio.svg" height="20">](https://bootstrapstudio.io/)
-[<img alt="Davinci Resolve" src="https://cdn.ollycodes.net/badge/davinci-resolve.svg" height="20">](https://www.blackmagicdesign.com/products/davinciresolve/)
-[<img alt="Affinity Designer" src="https://cdn.ollycodes.net/badge/affinity-designer.svg" height="20">](https://affinity.serif.com/)
-[<img alt="Aseprite" src="https://cdn.ollycodes.net/badge/aseprite.svg" height="20">](https://www.aseprite.org/)
-[<img alt="Fusion 360" src="https://cdn.ollycodes.net/badge/fusion-360.svg" height="20">](https://www.autodesk.com/products/fusion-360/)
-[<img alt="FileZilla" src="https://cdn.ollycodes.net/badge/filezilla.svg" height="20">](https://filezilla-project.org/)
+## Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflare-pages&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-### 👾 Games
-[<img alt="Minecraft" src="https://cdn.ollycodes.net/badge/minecraft.svg" height="20">](https://minecraft.net/)<!--<br>
-[<img alt="Minecraft" src="https://cdn.ollycodes.net/badge/minecraft-2.svg" height="20">](https://minecraft.net/)<br>
-[<img alt="Minecraft" src="https://cdn.ollycodes.net/badge/minecraft-3.svg" height="20">](https://minecraft.net/)<br>
-[<img alt="Minecraft" src="https://cdn.ollycodes.net/badge/minecraft-4.svg" height="20">](https://minecraft.net/) -->
+## Tools
+![WebStorm](https://img.shields.io/badge/webstorm-087CFA?style=for-the-badge&logo=webstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FE2857.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-3DEA62?style=for-the-badge&logo=pycharm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-AF1DF5?style=for-the-badge&logo=datagrip&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Desginer-134881.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Davinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![KeyCloak](https://img.shields.io/badge/KeyCloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
-
-## 📒 How to reach me
-- 📧 Email [olly@ollycodes.net](mailto:olly@ollycodes.ml)
+## Contact Me
+- 📧 Email [olly@ollycodes.net](mailto:olly@ollycodes.net)
 - 🌐 My website [ollycodes.net](https://ollycodes.net/)
-- 💬 Discord olly007opm#3517
